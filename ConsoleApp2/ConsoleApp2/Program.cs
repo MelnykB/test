@@ -147,8 +147,8 @@ namespace ConsoleApp2
         {
             //CarBuilder carBuilder = new CarBuilder();
             //carBuilder.
-            Vehicle vehicle = new Vehicle();
-            vehicle.Show();
+            //Vehicle vehicle = new Vehicle();
+            //vehicle.Show();
         }
     }
 }

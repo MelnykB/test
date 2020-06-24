@@ -145,10 +145,10 @@ namespace ConsoleApp2
         }
         static void Main(string[] args)
         {
-            //CarBuilder carBuilder = new CarBuilder();
-            //carBuilder.
-            //Vehicle vehicle = new Vehicle();
-            //vehicle.Show();
+            CarBuilder carBuilder = new CarBuilder();
+            carBuilder.
+            Vehicle vehicle = new Vehicle();
+            vehicle.Show();
         }
     }
 }
